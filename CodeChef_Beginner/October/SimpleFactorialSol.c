@@ -1,3 +1,7 @@
+/*
+Link for this problem:
+https://www.codechef.com/problems/FCTRL2
+*/
 
 #include <stdio.h>
 #include <string.h>

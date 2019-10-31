@@ -1,3 +1,8 @@
+/*
+Link for this problem:
+https://www.codechef.com/problems/FCTRL2
+*/
+
 #include<bits\stdc++.h>
 using namespace std;
 
